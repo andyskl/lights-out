@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="D:\Projects\Unity\UnityTestProject\Assets\Scripts\TileGrid.cs">
+    <Files>
+      <File FileName="D:\Projects\Unity\UnityTestProject\Assets\Scripts\TileGrid.cs" Line="20" Column="21" />
+      <File FileName="D:\Projects\Unity\UnityTestProject\Assets\Scripts\Tile.cs" Line="19" Column="2" />
+      <File FileName="D:\Projects\Unity\UnityTestProject\Assets\Scripts\Constants.cs" Line="22" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
